@@ -6,7 +6,7 @@ convert(5) ➞ 300
 convert(3) ➞ 180
 
 convert(2) ➞ 120
-**/
+**/ 
 
 function convert(minutes) {
 	 if (typeof minutes !== "number") {
