@@ -1,7 +1,7 @@
  /**** Soccer points *****/ 
 //Create a function that takes the number of wins, draws and losses and calculates the number of points a football team has obtained so far.
 
-
+ 
 function footballPoints(a, b, c) 
 {
     if (isNaN(a) || isNaN(b) || isNaN(b)) {
