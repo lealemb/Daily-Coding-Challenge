@@ -10,7 +10,6 @@ calcAge(65) ➞ 23725
 calcAge(0) ➞ 0
 
 calcAge(20) ➞ 7300
-
 **/
 function calcAge(age) {
 	return 365 * age;
