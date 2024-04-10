@@ -5,7 +5,7 @@ function findHiddenWord(a){
         let singleLetter = a.charAt(i);
         if (singleLetter !== singleLetter.toUpperCase()){
             hiddenWordContainer += singleLetter;
-        }
+        } 
     }
     return hiddenWordContainer;
 }
