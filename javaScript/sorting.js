@@ -1,5 +1,5 @@
-function sortNumbersInarray(numbers){
-
+function sortNumbersInarray(numbers)
+{
     let j =true;
 
     while (j) {
@@ -13,11 +13,8 @@ function sortNumbersInarray(numbers){
                 numbers[i+1] = temp;
                 
             }
-
         }
 }
     return numbers;
-
 }
-
 console.log(sortNumbersInarray([5,8,113,9,12,56,88]));
