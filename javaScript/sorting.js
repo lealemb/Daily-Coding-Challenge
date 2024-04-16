@@ -11,7 +11,6 @@ function sortNumbersInarray(numbers)
                 let temp = numbers[i];
                 numbers[i] = numbers[i+1];
                 numbers[i+1] = temp;
-                
             }
         }
 }
