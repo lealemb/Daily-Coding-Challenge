@@ -13,7 +13,8 @@ function sortNumbersInarray(numbers)
                 numbers[i+1] = temp;
             }
         }
-}
+} 
+    
     return numbers;
 }
 console.log(sortNumbersInarray([5,8,113,9,12,56,88]));
