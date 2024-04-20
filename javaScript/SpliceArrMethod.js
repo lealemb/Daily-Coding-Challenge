@@ -1,3 +1,4 @@
+
 let arr = ["I", "study", "JavaScript"];
 
 // from index 2
